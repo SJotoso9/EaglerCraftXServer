@@ -3,7 +3,7 @@ A EaglerCraftX-Server Creator
 # Download Instructions
 1 Access the Releases tab and Download EaglerCraftX Server.zip and EaglerXBungee.jar
 2 Install WinRAR in your computer
-3 Click with the right button and click extract to the Name Archive and go to the https://www.java.com,https://gitforwindows.org,https://ngrok.com and https://code.visualstudio.com and Download Java 8,Git For Windows,Ngrok and Visual Studio Code
+3 Click with the right button and click extract to the Name Archive and go to the https://www.java.com https://gitforwindows.org https://ngrok.com and https://code.visualstudio.com and Download Java 8,Git For Windows,Ngrok and Visual Studio Code
 4 Go to the Folder EaglerCraftX Server and Spigot 1.8.8. Entered in the folder click with the right button in the blank space and in the menu,click Open Git Bash Here
 5 in the Git Bash insert this command java -jar BuildTools.jar --rev 1.8.8 and wait the code stops
 6 back to the Folder EaglerCraftX Server and Enter in Folder BungeeCord
